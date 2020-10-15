@@ -5,7 +5,12 @@ Well, i'm graduate Technic Industrial IT 10 years after! For 3 years learned Del
 Im work with Technic Suporte IT, Project Manager, Quality Services with best practices ITIL, Data Analysis, dadhsboards production
 and today i discover what loveeeeee all types languages and wanna to dedicate my time with coding and all about languages.
 
-Everyday Im interest to learn on themes about Big Data, Science IA, Physic Nuclear, Phylosophy, Statistics and Gamers. =D
+Everyday Im interest to learn on themes about Big Data, Science IA, Physic Nuclear, Phylosophy, Statistics and Games. =D
+
+### Traveler
+
+I Love travel and languages and accents!! Seriosly! I discover it when arrived Spain-Barcelona. I lived in Spain for 1 year and was amazing!! 
+The 2 years old learned to talk Catalao, Spanish and still trying with English! I feel then need to improve but, today im better then 2 years old ='D
 
 <!--
 **CaioMonsorez/CaioMonsorez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
