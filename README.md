@@ -12,8 +12,10 @@ Everyday Im interest to learn on themes about *Big Data, Science IA, Physic Nucl
 
 #### I Love travel, languages, accents and all form of communication!! 
 Seriosly! I discover it when arrived Spain-Barcelona. I lived in Spain for 5 mounths and was amazing experience!! 
-The 2 years old learned to talk basic Catalan, advanced Spanish and still trying with English! I feel then need to improve but, today im better then 2 years old :relaxed: :muscle:
-You find me on [Instagram] (https://www.instagram.com/caiomonsorez) and [Twitter] (https://twitter.com.br/caiomonsorez)
+The 2 years old learned to talk basic Catalan, advanced Spanish and still trying with English! I feel then need to improve but, today im better then 2 years old :relaxed: 
+
+### Contact me
+You find me on [Instagram](https://www.instagram.com/caiomonsorez) and [Twitter](https://twitter.com.br/caiomonsorez)
 
 <!--
 **CaioMonsorez/CaioMonsorez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
