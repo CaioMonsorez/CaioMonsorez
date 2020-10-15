@@ -1,5 +1,7 @@
 ## Hi there, I'm Caio Monsorez  👋
 
+## It resume to be incomplete, but here go a little to me :grin:
+
 #### With 7 years old i started my career at "Operator IBMx486". YEES! My First interation with a computer since OSWin96. :baby:
 Well, i'm graduate Technic Industrial IT 10 years after! For 3 years learned *Delphi, Pascal, Visual Basic, DreamWeaver and everything about hardwares and yours archtectures fisicals and logics*.
 
