@@ -1,5 +1,9 @@
 ### Hi there, I'm Caio Monsorez  👋
 
+With 7 years old i started my career at "Operator IBMx486", YEES! My First interation with a computer since OSWin96. 
+Well, i'm graduate Technic Industrial IT 10 years after! For 3 years learned Delphi, Pascal, Visual Basic, DreamWeaver and everything about hardwares and yours archtectures fisicals and logics.
+Im work with Technic Suporte IT, Project Manager, Quality Services with best practices ITIL and today i discover what loveeeeee all types languages and wanna to dedicate my time with coding and all about languages!! 
+
 <!--
 **CaioMonsorez/CaioMonsorez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
