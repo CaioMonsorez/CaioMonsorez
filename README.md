@@ -3,12 +3,10 @@
 ## It resume to be incomplete, but here go a little of me :grin:
 
 #### With 7 years old i started my career at "Operator IBMx486". YEES! My First interation with a computer since OSWin96. :baby:
-Well, i'm graduate Technic Industrial IT 10 years after! For 3 years learned *Delphi, Pascal, Visual Basic, DreamWeaver and everything about hardwares and yours archtectures fisicals and logics*.
-
+Well, I'm gratuate Technic Industrial IT since 2007. During my gratuate (about 3 years) learning Delphi, Pascal, Visual Basic DreamWeaver and everything about hardware and yours archtectures (fisicals and logics). I Work with Techic Support IT, Project Manager, Quality Services with best practices ITIL, Data Analysis, Business Analisys and today I discover about my love in all types of languages and I wanna to dedicate my time with coding and all about languages stuff.
+Everyday I'm interest to learn themes about Big Data, Science IA, Physic Nuclear, Phylosophy, Statistics, Graphs, and Games.
 Im work with Technic Suporte IT, Project Manager, Quality Services with best practices ITIL, Data Analysis, dadhsboards production
 and today i discover what loveeeeee all types languages and wanna to dedicate my time with coding and all about languages.
-
-Everyday Im interest to learn on themes about *Big Data, Science IA, Physic Nuclear, Phylosophy, Statistics and Games*. :full_moon_with_face:
 
 ### Traveler :airplane:
 
