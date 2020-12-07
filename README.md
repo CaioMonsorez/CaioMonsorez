@@ -4,7 +4,7 @@
 Well, I'm gratuate Technic Industrial IT since 2007. During my gratuate (about 3 years) learning Delphi, Pascal, Visual Basic DreamWeaver and everything about hardware and yours archtectures (fisicals and logics). I Work with Techic Support IT, Project Manager, Quality Services with best practices ITIL, Data Analysis, Business Analisys and today I discover about my love in all types of languages and I wanna to dedicate my time with coding and all about languages stuff.
 Everyday I'm interest to learn themes about Big Data, Science IA, Physic Nuclear, Phylosophy, Statistics, Graphs, and Games.
 
-![Hard Skills-5](https://user-images.githubusercontent.com/68040965/101407694-01311b00-38ba-11eb-8b64-737372e26e44.gif)
+![Hard Skills-9](https://user-images.githubusercontent.com/68040965/101409550-d0061a00-38bc-11eb-8273-2dae5083960b.gif)
 
 
 
