@@ -7,7 +7,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioMonsorez&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
- ## Linguagens em Desenvolvimento de Aprendizado
+ ## Linguagens em aprendizado:
 <div style="display: inline_block"><br>
   <img align="center" alt="Caio-sql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="Caio-mongo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg">
